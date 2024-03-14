@@ -1,0 +1,10 @@
+
+.obes {
+    padding: 10px;
+    border-radius: 1em;
+    height: 300px;
+    width: 200px;
+    
+    background-color: greenyellow;
+    box-shadow: darkgreen 0p 10px 20px, gray 0px 6px 6px;
+}
